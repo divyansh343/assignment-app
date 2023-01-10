@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.text-col{
+  @apply text-[#5a5a5b]
+}
